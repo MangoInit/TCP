@@ -1,3 +1,2 @@
 # TCP
-Qt Creator
-TCP Example Learning in Qt Creator.
+- TCP Example in Qt Creator.
